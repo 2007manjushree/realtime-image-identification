@@ -1,0 +1,42 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    color: black;
+    float: none;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2 {
+    font-size: 18px;
+}
+
+.result {
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.footer {
+    background-color: gray;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    opacity: 95%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 130px;
+}
